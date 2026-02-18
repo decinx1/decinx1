@@ -3,7 +3,6 @@
 
 Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado en construir soluciones robustas y escalables. Me apasiona la intersección entre el desarrollo de sistemas. me he enfocado en el desarrollo de soluciones eficientes mediante la automatización. Mi enfoque principal es Python, utilizándolo para optimizar procesos, gestionar datos y conectar servicios. Desarrollo indistintamente en entornos Linux y Windows, adaptándome a las necesidades del proyecto, simpre dispuesto a provar tecnologias y herramientas nuevas .
 
-
 ---
 
 ### 🛠 Tecnologías y Herramientas
@@ -19,4 +18,7 @@ Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado
 * **[Sistema-hidroponico-Monitoreado](https://github.com/decinx1/Sistema-hidroponico-Monitoreado):** Automatización y monitoreo de cultivos mediante Python.
 * **[CRUD_Inventario](https://github.com/decinx1/CRUD_Inventario):** Gestión de activos académicos desarrollada en PHP.
 
+
+
+![FootballFootballManagerGIF](https://github.com/user-attachments/assets/3aad0e55-4eb0-4236-972c-02140cc2327e)
 
