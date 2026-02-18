@@ -1,17 +1,16 @@
 # Gustavo Salvador Aguilar
-**Software Engineering Student | Backend & VR Enthusiast**
+**Software Engineering Student | Python Developer & Automation Enthusiast**
 
-Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado en construir soluciones robustas y escalables. Me apasiona la intersección entre el desarrollo de sistemas, la ciberseguridad y las nuevas fronteras de la computación espacial (VR).
+Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado en construir soluciones robustas y escalables. Me apasiona la intersección entre el desarrollo de sistemas. me he enfocado en el desarrollo de soluciones eficientes mediante la automatización. Mi enfoque principal es Python, utilizándolo para optimizar procesos, gestionar datos y conectar servicios. Desarrollo indistintamente en entornos Linux y Windows, adaptándome a las necesidades del proyecto, simpre dispuesto a provar tecnologias y herramientas nuevas .
 
 ---
 
 ### 🛠 Tecnologías y Herramientas
 
-* **Lenguajes:** Python, PHP, C, Kotlin.
-* **Web & Backend:** React.js, Firebase, MySQL.
-* **Especialidades:** Desarrollo para Meta Quest 3, Sistemas de Gestión de Seguridad de la Información (SGSI).
-* **Entornos:** Pop!_OS, Linux Server.
-
+* **Lenguaje Principal:** Python (Automatización, Scripting, Filtrado de datos).
+* **Web & Frontend:** HTML5, CSS3, JavaScript, PHP.
+* **Bases de Datos:** MySQL, Firebase (Gestión básica y modelado).
+* **Sistemas & Entornos:** Pop!_OS, Ubuntu, Windows.
 ---
 
 ### 🚀 Proyectos Destacados
