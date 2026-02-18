@@ -21,12 +21,6 @@ Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![Stats de decinx1](https://github-readme-stats.vercel.app/api?username=decinx1&show_icons=true&theme=dark&hide_border=true&title_color=007acc)
-
----
-
 ### 📫 Contacto
 
 * **LinkedIn:** [gustavo-aguilar-decinx](https://linkedin.com/in/gustavo-aguilar-decinx)
