@@ -19,9 +19,3 @@ Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado
 * **[CRUD_Inventario](https://github.com/decinx1/CRUD_Inventario):** Gestión de activos académicos desarrollada en PHP.
 
 
----
-
-### 📫 Contacto
-
-* **LinkedIn:** [gustavo-aguilar-decinx](https://linkedin.com/in/gustavo-aguilar-decinx)
-* **Ubicación:** Manzanillo, Colima, México.
