@@ -20,5 +20,6 @@ Hola, soy un estudiante de Ingeniería de Software con sede en México, enfocado
 
 
 
-![FootballFootballManagerGIF](https://github.com/user-attachments/assets/3aad0e55-4eb0-4236-972c-02140cc2327e)
+![ImsickofworkTechnologysuXGIF](https://github.com/user-attachments/assets/df6c2840-706f-4e99-86de-28d40aa4c1fd)
+
 
