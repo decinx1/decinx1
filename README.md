@@ -1,5 +1,6 @@
 # 👨‍💻 Gustavo Salvador Aguilar
 **Software Engineering Student | Python Developer & Automation Enthusiast**
+
 Hi there! I’m a Software Engineering student based in Manzanillo, Colima, Mexico, focused on building robust and scalable solutions. I am passionate about analyzing complex problems to craft optimal solutions, with a strong emphasis on efficiency through automation.
 
 My core expertise is Python, which I use to optimize processes, manage data, and integrate services. I work across both Linux and Windows environments, adapting to project needs and always eager to explore new technologies and tools.
