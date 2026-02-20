@@ -16,6 +16,7 @@ Databases: MySQL, Firebase (Basic management and modeling).
 
 Systems & Environments: Pop!_OS, Ubuntu, Windows.
 
+---
 
 Hola, soy un estudiante de Ingeniería de Software con sede Manzanillo, Colima México, enfocado en construir soluciones robustas y escalables. Me apasiona el analisis de problematicas para elaborar soluciones optimas. Me he enfocado en el desarrollo de soluciones eficientes mediante la automatización. Mi enfoque principal es Python, utilizándolo para optimizar procesos, gestionar datos y conectar servicios. Desarrolloc en entornos Linux y Windows, adaptándome a las necesidades del proyecto, simpre dispuesto a provar tecnologias y herramientas nuevas .
 
