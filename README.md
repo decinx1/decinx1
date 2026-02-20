@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Salvador Aguilar
 **Software Engineering Student | Python Developer & Automation Enthusiast**
 
-Hi there! I’m a Software Engineering student based in Manzanillo, Colima, Mexico, focused on building robust and scalable solutions. I am passionate about analyzing complex problems to craft optimal solutions, with a strong emphasis on efficiency through automation.
+👋 Hi there! I’m a Software Engineering student based in Manzanillo, Colima, Mexico, focused on building robust and scalable solutions. I am passionate about analyzing complex problems to craft optimal solutions, with a strong emphasis on efficiency through automation.
 
 My core expertise is Python, which I use to optimize processes, manage data, and integrate services. I work across both Linux and Windows environments, adapting to project needs and always eager to explore new technologies and tools.
 
@@ -18,7 +18,7 @@ Systems & Environments: Pop!_OS, Ubuntu, Windows.
 
 ---
 
-Hola, soy un estudiante de Ingeniería de Software con sede Manzanillo, Colima México, enfocado en construir soluciones robustas y escalables. Me apasiona el analisis de problematicas para elaborar soluciones optimas. Me he enfocado en el desarrollo de soluciones eficientes mediante la automatización. Mi enfoque principal es Python, utilizándolo para optimizar procesos, gestionar datos y conectar servicios. Desarrolloc en entornos Linux y Windows, adaptándome a las necesidades del proyecto, simpre dispuesto a provar tecnologias y herramientas nuevas .
+👋 Hola, soy un estudiante de Ingeniería de Software con sede Manzanillo, Colima México, enfocado en construir soluciones robustas y escalables. Me apasiona el analisis de problematicas para elaborar soluciones optimas. Me he enfocado en el desarrollo de soluciones eficientes mediante la automatización. Mi enfoque principal es Python, utilizándolo para optimizar procesos, gestionar datos y conectar servicios. Desarrolloc en entornos Linux y Windows, adaptándome a las necesidades del proyecto, simpre dispuesto a provar tecnologias y herramientas nuevas .
 
 ---
 
